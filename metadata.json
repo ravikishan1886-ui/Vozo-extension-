@@ -1,0 +1,6 @@
+{
+  "name": "Vozo Batch Assistant",
+  "description": "Native Android 15 batch video translation assistant for Vozo.ai using Firefox, Jetpack Compose, SAF, Accessibility Service, and floating HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

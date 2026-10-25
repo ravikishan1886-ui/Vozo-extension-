@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vozo Batch Assistant</string>
+    <string name="accessibility_service_name">Vozo Assistant Page Inspector</string>
+    <string name="accessibility_service_desc">Inspects Vozo.ai translation webpage status tokens inside Firefox to coordinate batch video translation on Android 15.</string>
+</resources>

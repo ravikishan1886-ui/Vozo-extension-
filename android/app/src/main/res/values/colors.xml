@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_slate_950">#0B0F17</color>
+    <color name="card_slate_900">#0F172A</color>
+    <color name="card_slate_800">#1E293B</color>
+    <color name="blue_primary">#3B82F6</color>
+    <color name="green_success">#10B981</color>
+    <color name="amber_warning">#F59E0B</color>
+    <color name="rose_error">#EF4444</color>
+</resources>
