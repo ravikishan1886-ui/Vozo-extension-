@@ -57,7 +57,9 @@ jobs:
             echo "Error: ./debug.keystore could not be created or does not exist."
             exit 1
           fi
-          echo "Confirmed: ./debug.keystore exists."
+          mkdir -p ~/.android
+          cp ./debug.keystore ~/.android/debug.keystore
+          echo "Confirmed: ./debug.keystore exists and copied to ~/.android/debug.keystore."
 
       - name: Build Debug APK
         run: gradle :app:assembleDebug --stacktrace --no-daemon
